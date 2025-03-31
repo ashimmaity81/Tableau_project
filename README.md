@@ -5,9 +5,13 @@ The Bank Churn Prediction Dashboard, built using Tableau, is a comprehensive dat
 
 Key Features of Your Tableau Dashboard:
 ✔ Demographics Analysis – Gender and age distribution insights help understand customer segmentation.
+
 ✔ Geographical Insights – Country-wise customer distribution highlights regional patterns.
+
 ✔ Churn Behavior Trends – Identifies customer exit patterns based on tenure, credit score, and financial data.
+
 ✔ Salary & Balance Analysis – Examines salary distribution and balance trends to detect financial stability.
+
 ✔ Interactive Filters – Allows users to analyze data by gender, geography, and age range.
 
 This interactive data visualization tool enables financial institutions to identify churn patterns, improve retention strategies, and make data-driven decisions for customer engagement.
